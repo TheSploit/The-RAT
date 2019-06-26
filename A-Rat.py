@@ -42,7 +42,7 @@ def main():
     global host, port, output
 
     while True:
-        cmd = raw_input("[*] A-Rat@AndroSec1337:~# ").lower()
+        cmd = raw_input("[*] A-Rat@ ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ:=> ").lower()
 
         if cmd == "help":
             help()
